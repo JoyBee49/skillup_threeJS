@@ -6,6 +6,10 @@
 
 ---
 
+First run 
+
+`npm install`
+
 ## info
 
 particle points object

@@ -4,6 +4,10 @@
 
 ## Object Events
 
+First run 
+
+`npm install`
+
 ---
 
 ## info

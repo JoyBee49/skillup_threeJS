@@ -6,6 +6,11 @@
 
 ---
 
+
+First run 
+
+`npm install`
+
 ## info
 
 sphere geometry with material map and Cube map

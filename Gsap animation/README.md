@@ -6,6 +6,10 @@
 
 ---
 
+First run 
+
+`npm install`
+
 ## info
 
 image animamtion using Gsap
