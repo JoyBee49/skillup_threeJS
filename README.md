@@ -18,6 +18,8 @@ Or
 
 You can include threejs through CDN in the html files
 
+Three.js Should run on a local server ex mamp, or install a live server Vs extention  
+
 ---
 
 ## list 
