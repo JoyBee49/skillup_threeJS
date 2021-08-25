@@ -1,6 +1,3 @@
-<p align="center">
-    <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png" alt="Sublime's custom image"/>
-</p>
 
 ## Gsap animation 
 
@@ -22,7 +19,7 @@ image animamtion using Gsap
 3.png
 ```
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png" alt="Sublime's custom image"/>
+<p align="left">
+    <img src="https://raw.githubusercontent.com/aknjoroge/three.js-Projects/media/imgs.png?token=AOLMUC4T4OSQAZDXB5C2KM3BF6D2K" alt="Sublime's custom image"/>
 </p>
 

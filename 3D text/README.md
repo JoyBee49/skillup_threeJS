@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://raw.githubusercontent.com/hillelcoren/invoice-ninja/master/public/images/round_logo.png" alt="Sublime's custom image"/>
+    <img  width="300px" src="https://raw.githubusercontent.com/aknjoroge/three.js-Projects/media/text.png?token=AOLMUCYB64334CHWMYLQL5LBF6DE2" alt="3D text"/>
 </p>
 
 ## threejs text Geometry
